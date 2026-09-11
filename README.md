@@ -2,10 +2,6 @@
 
 I enjoy figuring out **what the data is trying to say** — then turning it into something simple, visual, and useful.
 
-**Data Analytics · Product Thinking · Visual Storytelling**
-
-`SQL` · `Tableau` · `Power BI` · `Python` · `Excel`
-
 ### ✦ Currently working on
 
 Analytics projects around **real-world product and business problems** — from funnel analysis and customer behavior to dashboards and actionable recommendations.
