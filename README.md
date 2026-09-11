@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Kinjal 👋
 
-<!--
-**kinjalmacwan97/kinjalmacwan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy figuring out **what the data is trying to say** — then turning it into something simple, visual, and useful.
 
-Here are some ideas to get you started:
+**Data Analytics · Product Thinking · Visual Storytelling**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`SQL` · `Tableau` · `Power BI` · `Python` · `Excel`
+
+### ✦ Currently working on
+
+Analytics projects around **real-world product and business problems** — from funnel analysis and customer behavior to dashboards and actionable recommendations.
+
+### 🧩 What I enjoy
+
+* 🔎 Exploring data to understand **why something is happening**
+* 📊 Building clear, decision-focused **visualizations**
+* 🧠 Connecting **product questions with data**
+* 🛠️ Turning messy data into structured analysis
+* 💡 Experimenting with different ways to communicate insights
+
+### 🌱 Learning & exploring
+
+Product Analytics · Data Visualization · Business Intelligence
